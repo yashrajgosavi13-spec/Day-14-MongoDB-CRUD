@@ -1,0 +1,15 @@
+
+{
+  "name": "day-14-mongodb-crud",
+  "version": "1.0.0",
+  "description": "Library Management CRUD API using MongoDB and Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["mongodb", "mongoose", "express", "crud"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
